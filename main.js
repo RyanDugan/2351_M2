@@ -1,14 +1,5 @@
-// var muffins = `12`;
-
-// muffins = muffins - 3;
-// muffins = muffins - 3;
-
-// var name = "Muffin Man";
-
-// const muffins = 12;
-
-// muffins = 6;
-
 let muffins = 12;
+
+document.getElementById("test-1").innerHTML = "Do you know the muffin man?";
 
 console.log(muffins);
