@@ -1,7 +1,7 @@
 let muffins = "Muffins are delicious!";
 console.log(muffins);
 
-document.getElementById("test3").innerHTML =
+document.getElementById("test1").innerHTML =
   (24 - 14) / 2 + " muffins are left"; //this is how many muffins are left for two people to share
 
 {
