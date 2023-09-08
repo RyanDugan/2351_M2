@@ -27,4 +27,4 @@ const muffintype = {
 document.getElementById("muffintype").innerHTML =
   muffintype.flavor + " with " + muffintype.topping;
 
-document.getElementById("testglobal").innerHTML = muffins; //this proves the global variable is funcitoning properly!
+document.getElementById("testglobal").innerHTML = muffins; //this proves the global variable is functioning properly!
