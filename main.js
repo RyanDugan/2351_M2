@@ -9,5 +9,8 @@ console.log(muffins);
 
 {
   const a = 6; //this is a const variable within a block
-  const z = 12; //this is also a const variable within a block
+}
+
+{
+  const a = 12; //this is another const variable within a different block. the const can change here!
 }
