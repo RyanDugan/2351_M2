@@ -2,7 +2,7 @@ let muffins = "Muffins are delicious!"; //this is a global variables
 console.log(muffins);
 
 document.getElementById("test1").innerHTML =
-  (24 - 14) / 2 + " muffins are left"; //this is how many muffins are left for two people to share
+  (24 - 14) / 2 + " muffins are left"; //this is how many muffins are left for two people to share...math!
 
 {
   const a = 6; //this is a const variable within a block
