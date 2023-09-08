@@ -1,4 +1,4 @@
-let muffins = 24;
+let muffins = "Muffins are delicious!";
 
 console.log(muffins);
 
@@ -17,3 +17,4 @@ let text1 = "Do you know the muffin man? "; //this is a string variable
 let text2 = "Yes, I know the muffin man! "; //this is also a string variable
 let text3 = text1 + text2; //the two string variables are added together within this third variable!
 document.getElementById("muffin").innerHTML = text3;
+console.log(text3);
