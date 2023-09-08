@@ -1,4 +1,4 @@
-let muffins = "Muffins are delicious!";
+let muffins = "Muffins are delicious!"; //this is a global variables
 console.log(muffins);
 
 document.getElementById("test1").innerHTML =
