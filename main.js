@@ -1,5 +1,4 @@
 let muffins = "Muffins are delicious!";
-
 console.log(muffins);
 
 document.getElementById("test-3").innerHTML =
