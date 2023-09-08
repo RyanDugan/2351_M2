@@ -17,3 +17,12 @@ let text2 = "Yes, I know the muffin man! "; //this is also a string variable
 let text3 = text1 + text2; //the two string variables are added together within this third variable!
 document.getElementById("muffin").innerHTML = text3;
 console.log(text3);
+
+const muffintype = {
+  flavor: "Blueberry",
+  topping: "Streusel",
+  size: "large",
+};
+
+document.getElementById("muffintype").innerHTML =
+  muffintype.flavor + " with " + muffintype.topping;
